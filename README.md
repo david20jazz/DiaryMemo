@@ -47,12 +47,6 @@ AlarmManager
 ```
 
 
-## Author
-
- * 이용범(LeeYongBeom)
- * Mail: [leeyongbeom.k@gmail.com](mailto://leeyongbeom.k@gmail.com)
- * Web: [www.yongcloud.co.kr](http://www.yongcloud.co.kr)
-
 ## License
 Copyright (c) 2016 LeeYongBeom
 
